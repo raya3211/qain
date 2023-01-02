@@ -74,6 +74,10 @@ nav a:hover {
     text-shadow: 2px 3px 6px rgb(183, 182, 182);
     font-style: italic;
 }
+.header-content span{
+  color:orange;
+
+}
 
 .header-content p{
     font-size: 19px;
@@ -86,6 +90,7 @@ nav a:hover {
     margin: 0;
     position: relative;
     font-size: 30px;
+    padding: ;
     
 
 }
@@ -128,6 +133,7 @@ nav a:hover {
 
 
   .overlay {
+    padding: 0;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -171,13 +177,14 @@ nav a:hover {
   }
 
   .bottom h2 {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:quicksand;
     font-size: 33px;
     padding: 80px;
     font-weight: lighter;
   }
 
   .bottom p {
+    font-family: Comfortaa;
     font-weight: 600;
     margin-top: 20px;
     font-size: 18px;
